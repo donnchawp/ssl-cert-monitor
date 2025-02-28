@@ -57,4 +57,4 @@ This plugin is licensed under the GPL v2 or later.
 
 ## Credits
 
-Developed by WordPress Developer 
+Developed by Donncha O Caoimh

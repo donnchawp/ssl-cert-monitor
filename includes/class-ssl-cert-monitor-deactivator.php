@@ -17,7 +17,7 @@
  * @since      0.0.1
  * @package    SSL_Cert_Monitor
  * @subpackage SSL_Cert_Monitor/includes
- * @author     WordPress Developer
+ * @author     Donncha O Caoimh
  */
 class SSL_Cert_Monitor_Deactivator {
 
